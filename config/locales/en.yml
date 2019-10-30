@@ -3,6 +3,6 @@ en:
   toto: ok!
   new_key1:
     - first
-    - forth
+    - second
     - third
   new_key2: secont
