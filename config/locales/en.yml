@@ -1,5 +1,8 @@
 en:
   lipstick: 💄
   toto: ok!
-  new_key1: first
+  new_key1:
+    - first
+    - second
+    - third
   new_key2: secont
