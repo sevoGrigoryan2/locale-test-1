@@ -1,6 +1,7 @@
 ---
   fr: 
     lipstick: "💄"
-    new_key1: "un"
-  en: 
-    toto: "okkk!"
+    new_key1: 
+      - "[translated] first"
+      - "[translated] seconddd"
+      - "[translated] third"
