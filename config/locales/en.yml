@@ -1,11 +1,10 @@
 en:
   lipstick: 💄
   new_key2: secont
-  new_key2: secont  
   toto: ok!
-  toto: ok!
+  toto: ok
   new_key1:
-    - firstttttt
+    - firsttttt
     - seconddd
     - third
 
