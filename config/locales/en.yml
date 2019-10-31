@@ -1,8 +1,8 @@
 en:
   lipstick: 💄
   new_key2: secont
-  toto: ok!
-  toto: ok firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt
+  value: ok!
+  value: ok firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt firsttttt
   new_key1:
     - firsttttt
     - seconddd
